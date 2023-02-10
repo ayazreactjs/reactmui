@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/reactmui/static/js/main.e7fe3bb0.js",
+    "index.html": "/reactmui/index.html",
+    "main.e7fe3bb0.js.map": "/reactmui/static/js/main.e7fe3bb0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e7fe3bb0.js"
+  ]
+}
