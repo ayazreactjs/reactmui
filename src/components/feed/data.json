@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "path": "images/1.jpg",
+    "path2": "images/11.jpg",
+    "logo": "D",
+    "title": "John doe",
+    "sub": "February 7, 2023",
+    "typo": "I created a website using React and Material UI. The navigation bar has an avatar that displays a dropdown menu when clicked. The website also has the option to toggle between dark and light modes. The text used on the website is dummy text and the icons used are from both Material UI and React Icon libraries. This is just a basic skeleton, if you have any questions, please feel free to ask. "
+  },
+  {
+    "id": 2,
+    "path": "images/2.jpg",
+    "path2": "images/7.jpg",
+    "logo": "W",
+    "title": "Wick doe",
+    "sub": "February 12, 2023",
+    "typo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus iusto vero, distinctio culpa necessitatibus officia enim sed quam commodi magni in recusandae repudiandae molestiae consectetur dolores laborum obcaecati nobis sequi!"
+  },
+  {
+    "id": 3,
+    "path": "images/3.jpg",
+    "path2": "images/12.jpg",
+    "title": "Jane doe",
+    "sub": "February 7, 2023",
+    "logo": "J",
+    "typo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus iusto vero, distinctio culpa necessitatibus officia enim sed quam commodi magni in recusandae repudiandae molestiae consectetur dolores laborum obcaecati nobis sequi!"
+  },
+  {
+    "id": 4,
+    "path": "images/4.jpg",
+    "path2": "images/8.jpg",
+    "title": "Doe Don",
+    "logo": "A",
+    "sub": "February 10, 2023",
+    "typo": "Torem testing dummy text adipisicing elit. Doloribus iusto vero, distinctio culpa necessitatibus officia enim sed quam commodi magni in recusandae repudiandae molestiae consectetur dolores laborum obcaecati nobis sequi!"
+  },
+  {
+    "id": 5,
+    "path": "images/5.jpg",
+    "path2": "images/9.jpg",
+    "logo": "B",
+    "title": "John Rambo",
+    "sub": "February 14, 2023",
+    "typo": "Borem testing dummy text adipisicing elit. Doloribus iusto vero, distinctio culpa necessitatibus officia enim sed quam commodi magni in recusandae repudiandae molestiae consectetur dolores laborum obcaecati nobis sequi!"
+  },
+  {
+    "id": 6,
+    "logo": "C",
+    "path": "images/6.jpg",
+    "path2": "images/7.jpg",
+    "title": "Macho Man",
+    "sub": "February 9, 2023",
+    "typo": "C this is dummy text dont waste energy  testing dummy text adipisicing elit. Doloribus iusto vero, distinctio culpa necessitatibus officia enim sed quam commodi magni in recusandae repudiandae molestiae consectetur dolores laborum obcaecati nobis sequi!"
+  }
+]
